@@ -1,6 +1,14 @@
+![Jarpatch Logo](https://example.com/jarpatch-logo.png) ![Spring Boot](https://example.com/spring-boot-icon.png) ![Java](https://example.com/java-icon.png)
+
 # Jarpatch
 
 A Spring Boot REST API application for applying patches to JAR and WAR files.
+
+![Fun GIF](https://example.com/fun-gif.gif)Jarpatch
+
+A Spring Boot REST API application for applying patches to JAR and WAR files.
+
+![Icon 1](https://example.com/icon1.png) ![Icon 2](https://example.com/icon2.png) ![Sticker 1](https://example.com/sticker1.png) ![Sticker 2](https://example.com/sticker2.png)
 
 ## Project Description
 
