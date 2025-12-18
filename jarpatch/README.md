@@ -6,10 +6,6 @@ Jarpatch is a utility service built with Spring Boot that provides endpoints to 
 
 A Spring Boot REST API application for applying patches to JAR and WAR files.
 
-Jarpatch
-
-A Spring Boot REST API application for applying patches to JAR and WAR files.
-
 
 ## Project Description
 
