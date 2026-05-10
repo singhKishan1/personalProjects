@@ -1,18 +1,53 @@
-# React + Vite
+# ToDo Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean task management app to help track your daily to-dos and stay organized.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add new tasks with a title and optional details
+- Mark tasks as complete or incomplete
+- Delete tasks when they are done or no longer needed
+- Clear completed tasks
+- Persist tasks locally so they stay available between sessions
 
-## React Compiler
+## Installation
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+1. Clone the repository
+   ```bash
+   git clone <repository-url>
+   ```
+2. Open the project folder
+   ```bash
+   cd toDo
+   ```
+3. Install dependencies (if the project uses a package manager)
+   ```bash
+   npm install
+   ```
 
-Note: This will impact Vite dev & build performances.
+## Usage
 
-## Expanding the ESLint configuration
+1. Run the app locally
+   ```bash
+   npm start
+   ```
+2. Open the app in your browser
+   ```text
+   http://localhost:5173
+   ```
+3. Add tasks, mark them complete, and manage your list.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Local storage for task persistence
+
+## Contributing
+
+Feel free to open issues or submit pull requests to improve the app.
+
+## License
+
+This project is available under the MIT License.
