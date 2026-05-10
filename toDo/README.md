@@ -1,5 +1,8 @@
 # ToDo Project
-![Project Banner](https://github.com/singhKishan1/personalProjects/blob/master/toDo/public/toDoProject.png)
+![Project Banner]
+<p align="center">
+  <img src="https://github.com/singhKishan1/personalProjects/blob/master/toDo/public/toDoProject.png" width="400" />
+</p>
 A simple and clean task management app to help track your daily to-dos and stay organized.
 
 ## Features
