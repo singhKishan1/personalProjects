@@ -46,10 +46,6 @@ A simple and clean task management app to help track your daily to-dos and stay 
 - JavaScript
 - Local storage for task persistence
 
-## Contributing
 
-Feel free to open issues or submit pull requests to improve the app.
 
-## License
 
-This project is available under the MIT License.
