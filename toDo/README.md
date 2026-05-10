@@ -1,6 +1,7 @@
 # ToDo Project
 
 A simple and clean task management app to help track your daily to-dos and stay organized.
+![Project Banner](toDo\public\toDoProject.png)
 
 ## Features
 
@@ -14,7 +15,7 @@ A simple and clean task management app to help track your daily to-dos and stay 
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/singhKishan1/personalProjects)>
    ```
 2. Open the project folder
    ```bash
